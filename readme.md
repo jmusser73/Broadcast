@@ -1,4 +1,4 @@
-Broadcast is a simplified Pub-Sub solution.  
+Broadcast is a light-weight Pub-Sub solution that will allow your AngularJS modules to send data to one another.  
 
 To install the module: `bower install jmusser.broadcast`
 
