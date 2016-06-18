@@ -1,7 +1,7 @@
 'use strict';
 
 var app = angular.module('jmusser.broadcast');
-app.service('Broadcast', function($http, $q, $state, $injector) {
+app.service('Broadcast', function() {
 	var listeners = [];
 
 	return {
