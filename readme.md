@@ -26,7 +26,7 @@ Broadcast.publish("user-created", newUser);
 ```
 
 To remove all subscriptions for a given Key use:
-`Broadcast.remove(<key-name>`
+`Broadcast.remove(<key-name>);`
 
 `Broadcast.remove("UserKey");`
 
